@@ -7,7 +7,7 @@ You can also integrate this filemanager with CKEditor.
 Screenshot
 ----------
 
-![screenshot](https://raw.githubusercontent.com/IMGIITRoorkee/django-filemanager/master/filemanager-screenshot.png)
+![screenshot](https://raw.githubusercontent.com/t47io/django-filemanager/master/filemanager-screenshot.png)
 
 
 
@@ -16,7 +16,7 @@ Quick start
 
 Install it by
 <pre>
-pip install -e git+https://github.com/IMGIITRoorkee/django-filemanager.git#egg=django-filemanager
+pip install -e git+https://github.com/t47io/django-filemanager.git#egg=django-filemanager
 </pre>
 
 Add "filemanager" to your INSTALLED_APPS setting like this::
